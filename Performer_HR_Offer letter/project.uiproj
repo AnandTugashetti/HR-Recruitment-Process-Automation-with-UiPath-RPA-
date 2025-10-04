@@ -1,0 +1,6 @@
+{
+  "Name": "Performer_HR_Offer letter",
+  "ProjectType": "Process",
+  "Description": "Performer-HR Offer letter Process",
+  "MainFile": "Main.xaml"
+}
